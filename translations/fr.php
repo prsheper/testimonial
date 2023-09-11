@@ -1,0 +1,31 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{egiotestimonials}prestashop>egiotestimonials_e6ddd6fb26fed57b0352d54cf9c6f499'] = 'Egio Testimonials';
+$_MODULE['<{egiotestimonials}prestashop>egiotestimonials_32216b3af3cf4d57d292632a1d7d47ca'] = 'Assister les visiteurs à ajouter des témoignages sur le site web.';
+$_MODULE['<{egiotestimonials}prestashop>egiotestimonials_9f0b573c82f0852ac00cc87519fe12ef'] = 'Gestionnaire de témoignages';
+$_MODULE['<{egiotestimonials}prestashop>egiotestimonials_f4f70727dc34561dfde1a3c529b6205c'] = 'Paramètres';
+$_MODULE['<{egiotestimonials}prestashop>egiotestimonials_54e36cab3ea2633805846b883acae965'] = 'Entrez la taille d\'image autorisée en octets.';
+$_MODULE['<{egiotestimonials}prestashop>egiotestimonials_85af2d9d334bc6526ef10ba465ba9c81'] = 'Taille d\'image autorisée';
+$_MODULE['<{egiotestimonials}prestashop>egiotestimonials_cc228f5d4157910af9e176d269565adb'] = 'Entrez les types MIME d\'images autorisés.';
+$_MODULE['<{egiotestimonials}prestashop>egiotestimonials_078d069d904af36e1e58849f166ac123'] = 'Types d\'images autorisés';
+$_MODULE['<{egiotestimonials}prestashop>egiotestimonials_2ef278103c76dad210377c08dd1a35c8'] = 'Types MIME d\'images autorisés';
+$_MODULE['<{egiotestimonials}prestashop>admintestimonialscontroller_b718adec73e04ce3ec720dd11a06a308'] = 'ID';
+$_MODULE['<{egiotestimonials}prestashop>admintestimonialscontroller_b78a3223503896721cca1303f776159b'] = 'Titre';
+$_MODULE['<{egiotestimonials}prestashop>admintestimonialscontroller_ec53a8c4f07baed5d8825072c89799be'] = 'Statut';
+$_MODULE['<{egiotestimonials}prestashop>admintestimonialscontroller_5706de961fb376d701be6e7762d8b09c'] = 'En attente';
+$_MODULE['<{egiotestimonials}prestashop>admintestimonialscontroller_6f8063417ab31f38d864c28302f3de2f'] = 'Approuvé';
+$_MODULE['<{egiotestimonials}prestashop>admintestimonialscontroller_f48b206184b7442983452ea4c3e88a3a'] = 'Refusé';
+$_MODULE['<{egiotestimonials}prestashop>admintestimonialscontroller_52f5e0bc3859bc5f5e25130b6c7e8881'] = 'Position';
+$_MODULE['<{egiotestimonials}prestashop>admintestimonialscontroller_13ea583f6474cdce6c0c9b289b652ffe'] = 'Témoignages';
+$_MODULE['<{egiotestimonials}prestashop>admintestimonialscontroller_e4325faff68fd1e5d279e37b6a6c03c4'] = 'Page d\'accueil des témoignages';
+$_MODULE['<{egiotestimonials}prestashop>admintestimonialscontroller_be53a0541a6d36f6ecb879fa2c584b08'] = 'Photo';
+$_MODULE['<{egiotestimonials}prestashop>admintestimonialscontroller_4c2a8fe7eaf24721cc7a9f0175115bd4'] = 'Message';
+$_MODULE['<{egiotestimonials}prestashop>admintestimonialscontroller_9d55fc80bbb875322aa67fd22fc98469'] = 'Association de boutiques';
+$_MODULE['<{egiotestimonials}prestashop>testimonials_a2dc9fd4df67f3816ddf6bc89abe1e56'] = 'Votre témoignage a été envoyé avec succès et est en attente d\'approbation.';
+$_MODULE['<{egiotestimonials}prestashop>testimonials_6f9dccd85b2e0786c8d522045365eb48'] = 'TITRE';
+$_MODULE['<{egiotestimonials}prestashop>testimonials_23a12f67f614b5518c7f1c2465bf95e3'] = 'PHOTO';
+$_MODULE['<{egiotestimonials}prestashop>testimonials_90791ed805bd5b00d78527d39d9ef7e4'] = 'MESSAGE';
+$_MODULE['<{egiotestimonials}prestashop>testimonials_f4d1f29b4a070d012fef3c53d62bf315'] = 'AJOUTER UN NOUVEAU TÉMOIGNAGE';
+$_MODULE['<{egiotestimonials}prestashop>testimonials_13ea583f6474cdce6c0c9b289b652ffe'] = 'Témoignages';
